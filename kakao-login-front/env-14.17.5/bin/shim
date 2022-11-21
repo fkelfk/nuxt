@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH='/Users/atesi/Documents/nuxt/kakao-login-front/env-14.17.5/lib/node_modules'
+export NPM_CONFIG_PREFIX='/Users/atesi/Documents/nuxt/kakao-login-front/env-14.17.5'
+export npm_config_prefix='/Users/atesi/Documents/nuxt/kakao-login-front/env-14.17.5'
+exec 'env-14.17.5/bin/node' "$@"
